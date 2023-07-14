@@ -1,6 +1,6 @@
 # My Edenred CSV
 
-My Edenred CSV is a free Chrome extension that allows you to download all of your transactions from your Edenred account.
+My Edenred CSV is a free Chrome extension that allows you to download all of your transactions from your Edenred account to a csv file.
 
 The extension is easy to use. Simply install the extension and then log in to your Edenred account. Open the extension and click the button to automatically download all of your transactions.
 
@@ -19,3 +19,11 @@ Keep track of your Edenred benefits
 Export transactions for tax purposes
 Easy to use
 Free
+
+## Install (Chrome)
+
+1. download zip file from github and uncompress to local.
+
+2. open Extensions from chrome.
+
+3. Choose `Load unpacked`(Open Develop Mode first)，Click folder you just uncompressed, finish!
