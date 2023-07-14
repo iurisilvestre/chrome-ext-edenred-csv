@@ -1,0 +1,35 @@
+body {
+    width: 200px;
+    height: 150px;
+}
+.container {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    justify-content: center;
+    height: 100%;
+}
+img {
+    width: 100px;
+}
+.btn-success {
+    align-items: center;
+    background-color: #28a745;
+    border: 1px solid #28a745;
+    border-radius: 4px;
+    color: #fff;
+    cursor: pointer;
+    display: flex;
+    font-size: 14px;
+    gap: 8px;
+    padding: 8px 10px;
+}
+.btn-success:hover {
+    background-color: #218838;
+    border-color: ##1e7e34;
+}
+.btn-success:active {
+    background-color: #1e7e34;
+    border-color: #1c7430;
+}
